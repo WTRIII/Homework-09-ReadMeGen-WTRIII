@@ -17,7 +17,7 @@ function generateMarkdown(data) {
   return `# ${data.title}
 
 
-// ${varName}
+// $ varName
 `;
 }
 
