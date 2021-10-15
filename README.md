@@ -1,10 +1,13 @@
 # Homework-09-ReadMeGen-WTRIII
 Readme Generator
+Sources:
+TA Christian for setting up chalk/revealing the existence of the app.
+Mini-Project for unit 9.
+
 Future Dev:
 Research and implement license catching
-Research and implement GitHub link catching / getting links in general
 
-PseudoCode removed to be implemented:
+PseudoCode removed to be implemented -
 From generateMarkdown.js:
 
 // TODO: Create a function that returns a license badge based on which license is passed in

@@ -9,7 +9,7 @@ const generateMarkdown =({ title, description, contents, installation, usage, co
   ### Application Usage: ${usage}
   ### Contributing: ${contributing}
   ### Testing: ${tests}
-  ### Questions? ${question}
+  ### Questions? Contact Me at https://github.com/${question}
 `;
 
 module.exports = generateMarkdown;
